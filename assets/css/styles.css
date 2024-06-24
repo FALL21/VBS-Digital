@@ -455,6 +455,7 @@ input #send{
 }
 /*==================== SKILLS ====================*/
 .skills__container{
+  margin: 2rem;
   row-gap:0;
   display: flex;
   justify-content: space-between;
